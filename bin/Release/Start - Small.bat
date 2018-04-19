@@ -1,0 +1,1 @@
+start BertSweeper.exe 8 8 10
